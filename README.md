@@ -239,7 +239,9 @@ E D C D E E E
 ### File Structure:
 ```
 phantom_keys/
-├── phantom_keys.py          # The main judge
+├── The_Awakening.py        # The version which can run on cpu
+├── The_roasting.py         # The one which has the actual game and works with gpu
+├── Phantom_mode.py          # Just a file with controls the time duration of the note with hand gestures(ps : The keyboard is your notes)
 ├── setup.py                 # Your first failure point
 ├── requirements.txt         # Things you'll install wrong
 └── README.md               # This masterpiece
